@@ -20,10 +20,10 @@ http://paysimple.store
 
 
 Contact Information:
-Requestor First Name: Aya
-Requestor Last Name: Elha
+Requestor First Name: [REDACTED]
+Requestor Last Name: [REDACTED]
 E-mail: security@fraudwatchinternational.com
-Phone Number: +613 9887 6777
+Phone Number: [REDACTED]
 Street Address: GPO Box 3537
 City: Melbourne
 State/Province: Victoria
