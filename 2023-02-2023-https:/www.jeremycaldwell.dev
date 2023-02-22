@@ -1,0 +1,24 @@
+Create DMCA file for ticket 134084
+Hello!
+
+To get started: I have read and understand Netlify’s Guide to Filing a DMCA Notice.
+
+I recently discovered that jeremycaldwell.dev has taken all of my personal website's code, ryanmulligan.dev, and put it on their domain.
+Only the main homepage heading and subheading strings have been altered, from what I can tell. OG images, CodePen projects, blog content, and even the footer copyright still contain my information.
+I discovered the site through a google search of "layout breakouts". ryanmulligan.dev still appears first in the results, but jeremycaldwell.dev follows just underneath it.
+I posted about the incident on mastodon here and later received a direct message telling me that the site in question is currently hosted on Netlify.
+My assumption is that the owner cloned my site's public repo, attempted to use it as a starter template, but hasn't really touched it since deploying.
+The last published blog post is from Oct 7th, 2022 as seen on the homepage. They don't include my blog posts written after Jan 20th, 2023, so I imagine they copied the site sometime between the two.
+
+Some relevant WHOIS information for this domain shows that it is currently hosted on Google domains. I sent an email to the registrar abuse contact email listed below on February 18th. I have not heard back yet.
+
+Domain Name: jeremycaldwell.dev
+Registry Domain ID: 4A3456878-DEV
+Registrar WHOIS Server: whois.google.com
+Registrar URL: domains.google
+Registrar Abuse Contact Email: <redacted>
+
+Let me know if there is any other information that I can provide.
+
+Thanks all!
+Ryan
