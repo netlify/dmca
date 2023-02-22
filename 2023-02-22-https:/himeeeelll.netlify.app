@@ -25,7 +25,7 @@ Telephone number:
 <redacted>
 
 E-mail address:
-cyberholicr1@gmail.com
+<redacted>
 
 I have a good faith belief that the use of the described material in the manner complained of is not authorized by the copyright owner, its agent, or by operation of law.
 The information in this notice is accurate, and I am either the copyright owner or I am authorized to act on behalf of the copyright owner.
